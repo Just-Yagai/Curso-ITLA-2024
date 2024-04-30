@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso de C# .Net Básico", "Curso de C# .Net Básico\Curso de C# .Net Básico.csproj", "{EA020784-DBCB-483D-BA55-09E7432A5848}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica1", "Practica1\Practica1.csproj", "{0059DEEF-E531-442E-93F2-6F29A1E74236}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EA020784-DBCB-483D-BA55-09E7432A5848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA020784-DBCB-483D-BA55-09E7432A5848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA020784-DBCB-483D-BA55-09E7432A5848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0059DEEF-E531-442E-93F2-6F29A1E74236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0059DEEF-E531-442E-93F2-6F29A1E74236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0059DEEF-E531-442E-93F2-6F29A1E74236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0059DEEF-E531-442E-93F2-6F29A1E74236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
