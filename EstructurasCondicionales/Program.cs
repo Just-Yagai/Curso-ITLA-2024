@@ -2,4 +2,6 @@
 
 Programa1 estructurasCond = new Programa1();
 
-estructurasCond.CalcularPerimetro();
+//estructurasCond.CalcularPerimetro();
+//estructurasCond.CalcularSumaProducto();
+estructurasCond.CalcularSumaPromedio();
